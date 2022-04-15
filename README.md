@@ -2,5 +2,8 @@
 
 ### Controls
 left: move left
+
 right: move right
+
 space: fire bullet
+
